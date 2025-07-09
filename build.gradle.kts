@@ -1,0 +1,1 @@
+// Arquivo de build fictício - substitua por conteúdo real ao compilar.
